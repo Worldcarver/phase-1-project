@@ -228,7 +228,8 @@
     "postal_code": "92648-1235",
     "country": "United States",
     "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z"
+    "created_at": "2021-10-23T02:24:55.243Z",
+    "image": "https://static.wixstatic.com/media/a8a5aa_5cd5155eb91b4006ba9753286edc3997~mv2.png"
 }, {
     "id": "devout-brewing-export",
     "name": "Devout Brewing",
@@ -239,7 +240,8 @@
     "country": "United States",
     "website_url": "http://www.devoutbrewingco.com",
     "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z"
+    "created_at": "2021-10-23T02:24:55.243Z",
+    "image":"https://assets.simpleviewinc.com/simpleview/image/fetch/c_limit,q_75,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/crm/laurel/Exterior-800x53310-725a47045056a36_725a4827-5056-a36a-0a94eed199380ae7.jpg"
 }, {
     "id": "dirt-road-brewing-corvallis",
     "name": "Dirt Road Brewing",
@@ -251,5 +253,6 @@
     "phone": "5415984221",
     "website_url": "http://dirtroadbrewing.com",
     "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z"
+    "created_at": "2021-10-23T02:24:55.243Z",
+    "image":"https://corvallis.objects.liquidweb.services/photos/1961-dirtroadbrewing3-1200x800.jpg"
 }]}
