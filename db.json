@@ -1,4 +1,6 @@
-{[{
+{
+     "breweries":[
+    {
     "id": "banjo-brewing-fayetteville",
     "name": "Banjo Brewing",
     "brewery_type": "planning",
