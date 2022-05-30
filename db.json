@@ -50,7 +50,8 @@
     "phone": "5038980220",
     "website_url": "http://www.bentshovelbrewing.com",
     "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z"
+    "created_at": "2021-10-23T02:24:55.243Z",
+    "image": "https://images.squarespace-cdn.com/content/61b4e26174123c578303ebec/61cb5418-19fb-4ffe-84a1-1282d7ab9896/Big+full+color+Bent+Shovel+logo+Estacada.jpg?format=1500w&content-type=image%2Fjpeg"
 }, {
     "id": "snow-belt-brew-chardon",
     "name": "Snow Belt Brew",
@@ -61,7 +62,8 @@
     "postal_code": "44024",
     "country": "United States",
     "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z"
+    "created_at": "2021-10-23T02:24:55.243Z",
+    "image": "https://www.visitcharlevoix.com/imgs/google_img_274_1.jpg"
 }, {
     "id": "boring-brewing-co-llc-boring",
     "name": "Boring Brewing Co., LLC",
@@ -74,7 +76,8 @@
     "phone": "5034278619",
     "website_url": "http://www.boringbrewing.com",
     "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z"
+    "created_at": "2021-10-23T02:24:55.243Z",
+    "image": "https://d2pxm94gkd1wuq.cloudfront.net/BreweryLogos/Standard/6333.boring-brewing-co.jpg"
 }, {
     "id": "brubakers-brewery-and-pub-sylvania",
     "name": "Brubaker's Brewery \u0026 Pub",
@@ -84,7 +87,8 @@
     "postal_code": "43560-9586",
     "country": "United States",
     "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z"
+    "created_at": "2021-10-23T02:24:55.243Z",
+    "image": "https://d2pxm94gkd1wuq.cloudfront.net/BreweryLogos/Standard/678722660.brubakersbreweryamppub.jpg"
 }, {
     "id": "camino-brewing-co-llc-san-jose",
     "name": "Camino Brewing Co LLC",
@@ -98,7 +102,8 @@
     "latitude": "37.32530178",
     "website_url": "http://www.caminobrewing.com",
     "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z"
+    "created_at": "2021-10-23T02:24:55.243Z",
+    "image":"https://www.sanjose.org/sites/default/files/2018-06/0_0.jpg"
 }, {
     "id": "cape-ann-lanes-gloucester",
     "name": "Cape Ann Lanes",
@@ -109,7 +114,8 @@
     "country": "United States",
     "phone": "9788799714",
     "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z"
+    "created_at": "2021-10-23T02:24:55.243Z",
+    "image": "https://static.wixstatic.com/media/f96d7c_cf62f72c0cc943b4ba369b762c2d5c87~mv2_d_3376_3447_s_4_2.jpg"
 }, {
     "id": "center-pivot-quinter",
     "name": "Center Pivot",
@@ -120,7 +126,8 @@
     "country": "United States",
     "phone": "7857548344",
     "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z"
+    "created_at": "2021-10-23T02:24:55.243Z",
+    "image":"https://untappd.akamaized.net/site/beer_logos_hd/beer-3693672_0a500_hd.jpeg"
 }, {
     "id": "cerveceria-del-pueblo-pasadena",
     "name": "Cerveceria Del Pueblo",
@@ -132,7 +139,8 @@
     "longitude": "-118.1444779",
     "latitude": "34.1476452",
     "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z"
+    "created_at": "2021-10-23T02:24:55.243Z",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/1d/1b/06/4a/mas-de-nuestra-terraza.jpg"
 }, {
     "id": "circle-9-brewing-san-diego",
     "name": "Circle 9 Brewing",
@@ -145,7 +153,8 @@
     "phone": "8586342537",
     "website_url": "http://www.circle9brewing.com",
     "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z"
+    "created_at": "2021-10-23T02:24:55.243Z",
+    "image":"https://media.sandiegoreader.com/img/photos/2017/08/21/circle9_beers_t720.jpg?5755a55b677da5dfc6c8e05d88cfbaffe8abac5c"
 }, {
     "id": "cerveza-guajira-miami",
     "name": "Cerveza Guajira",
@@ -156,7 +165,8 @@
     "country": "United States",
     "phone": "3056005692",
     "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z"
+    "created_at": "2021-10-23T02:24:55.243Z",
+    "image":"https://media-cdn.tripadvisor.com/media/photo-s/11/c4/18/38/guajira.jpg"
 }, {
     "id": "common-john-brewing-co-manchester",
     "name": "Common John Brewing Co",
@@ -168,7 +178,8 @@
     "phone": "9314090630",
     "website_url": "http://www.commonjohnbc.com",
     "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z"
+    "created_at": "2021-10-23T02:24:55.243Z",
+    "image":"https://www.commonjohnbc.com/wp-content/uploads/sb-instagram-feed-images/277660530_365309708813855_8274407884179826317_nfull.jpg"
 }, {
     "id": "corner-pub-reedsburg",
     "name": "Corner Pub",
@@ -180,7 +191,8 @@
     "country": "United States",
     "phone": "6085248989",
     "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z"
+    "created_at": "2021-10-23T02:24:55.243Z",
+    "image":"https://cdn.usarestaurants.info/assets/uploads/861a44a42dde19db091fb73b320b39d9_-united-states-wisconsin-sauk-county-reedsburg-corner-pub-608-524-8989htm.jpg"
 }, {
     "id": "cyclers-brewing-montgomery",
     "name": "Cycler's Brewing",
@@ -193,7 +205,8 @@
     "phone": "7135692485",
     "website_url": "http://www.cyclersbrewing.com",
     "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z"
+    "created_at": "2021-10-23T02:24:55.243Z",
+    "image":"https://lh4.ggpht.com/ydLXvQdVkvT77ghXF-oi3wmBNDtGSZJUiSjgRSRsJ1igHgr-PoSpWH8nn628mFz7xn_u25jlrJSeJGLX2RrG7GxqAwIOXUU=s750"
 }, {
     "id": "dented-face-brewing-company-delta",
     "name": "Dented Face Brewing Company",
@@ -203,7 +216,8 @@
     "postal_code": "81416",
     "country": "United States",
     "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z"
+    "created_at": "2021-10-23T02:24:55.243Z",
+    "image":"https://images.squarespace-cdn.com/content/v1/555cd8b8e4b0c647a26e43c9/1563315979507-8IRN82VZ7G2GXW3PNB0P/dented-+logo.png"
 }, {
     "id": "dfamle-enterprises-lp-dba-four-sons-brewing-huntington-beach",
     "name": "Dfamle Enterprises LP (DBA Four Sons Brewing)",
