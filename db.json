@@ -17,7 +17,8 @@
     "phone": "3042164231",
     "website_url": null,
     "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z"
+    "created_at": "2021-10-23T02:24:55.243Z",
+    "image" : "https://brilliantstream.com/wp-content/uploads/2018/03/00F16EA2-09E2-4BA8-B42A-15008BF03F26.jpeg"
 }, {
     "id": "barrel-brothers-brewing-company-windsor",
     "name": "Barrel Brothers Brewing Company",
@@ -35,7 +36,8 @@
     "phone": "7076969487",
     "website_url": "http://www.barrelbrothersbrewing.com",
     "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z"
+    "created_at": "2021-10-23T02:24:55.243Z",
+    "image": "https://www.sonomacounty.com/sites/default/files/styles/profile_photo_full/public/listing_images/profile/6178/breweries_Barrel_Brothers_Brewing_Windsor_Sonoma_County_0080-fc469dcb5056a36_fc469ffd-5056-a36a-07deeadeeda80def.jpg?itok=SQjNns9B"
 }, {
     "id": "bay-brewing-company-miami",
     "name": "Bay Brewing Company",
@@ -53,7 +55,8 @@
     "phone": "18134763767",
     "website_url": null,
     "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z"
+    "created_at": "2021-10-23T02:24:55.243Z",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/56/9c/79/tap-room.jpg"
 }, {
     "id": "bent-shovel-brewing-oregon-city",
     "name": "Bent Shovel Brewing",
