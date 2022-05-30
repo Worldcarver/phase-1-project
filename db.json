@@ -6,25 +6,15 @@
     "brewery_type": "planning",
     "city": "Fayetteville",
     "state": "West Virginia",
-    "postal_code": "25840",
     "country": "United States",
-    "phone": "3042164231",
-    "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z",
     "image" : "https://brilliantstream.com/wp-content/uploads/2018/03/00F16EA2-09E2-4BA8-B42A-15008BF03F26.jpeg"
 }, {
     "id": "barrel-brothers-brewing-company-windsor",
     "name": "Barrel Brothers Brewing Company",
     "brewery_type": "micro",
-    "street": "399 Business Park Ct Ste 506",
     "city": "Windsor",
     "state": "California",
-    "postal_code": "95492-6652",
     "country": "United States",
-    "phone": "7076969487",
-    "website_url": "http://www.barrelbrothersbrewing.com",
-    "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z",
     "image": "https://www.sonomacounty.com/sites/default/files/styles/profile_photo_full/public/listing_images/profile/6178/breweries_Barrel_Brothers_Brewing_Windsor_Sonoma_County_0080-fc469dcb5056a36_fc469ffd-5056-a36a-07deeadeeda80def.jpg?itok=SQjNns9B"
 }, {
     "id": "bay-brewing-company-miami",
@@ -35,48 +25,30 @@
     "postal_code": "33130-3488",
     "country": "United States",
     "phone": "18134763767",
-    "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z",
     "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/56/9c/79/tap-room.jpg"
 }, {
     "id": "bent-shovel-brewing-oregon-city",
     "name": "Bent Shovel Brewing",
     "brewery_type": "micro",
-    "street": "21678 S Latourette Rd",
     "city": "Oregon City",
     "state": "Oregon",
-    "postal_code": "97045-9453",
     "country": "United States",
-    "phone": "5038980220",
-    "website_url": "http://www.bentshovelbrewing.com",
-    "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z",
     "image": "https://images.squarespace-cdn.com/content/61b4e26174123c578303ebec/61cb5418-19fb-4ffe-84a1-1282d7ab9896/Big+full+color+Bent+Shovel+logo+Estacada.jpg?format=1500w&content-type=image%2Fjpeg"
 }, {
     "id": "snow-belt-brew-chardon",
     "name": "Snow Belt Brew",
     "brewery_type": "micro",
-    "street": "9511 Kile Rd",
     "city": "Chardon",
     "state": "Ohio",
-    "postal_code": "44024",
     "country": "United States",
-    "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z",
     "image": "https://www.visitcharlevoix.com/imgs/google_img_274_1.jpg"
 }, {
     "id": "boring-brewing-co-llc-boring",
     "name": "Boring Brewing Co., LLC",
     "brewery_type": "micro",
-    "street": "29300 SE Haley Road Ste B",
     "city": "Boring",
     "state": "Oregon",
-    "postal_code": "97009",
     "country": "United States",
-    "phone": "5034278619",
-    "website_url": "http://www.boringbrewing.com",
-    "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z",
     "image": "https://d2pxm94gkd1wuq.cloudfront.net/BreweryLogos/Standard/6333.boring-brewing-co.jpg"
 }, {
     "id": "brubakers-brewery-and-pub-sylvania",
@@ -84,25 +56,15 @@
     "brewery_type": "planning",
     "city": "Sylvania",
     "state": "Ohio",
-    "postal_code": "43560-9586",
     "country": "United States",
-    "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z",
     "image": "https://d2pxm94gkd1wuq.cloudfront.net/BreweryLogos/Standard/678722660.brubakersbreweryamppub.jpg"
 }, {
     "id": "camino-brewing-co-llc-san-jose",
     "name": "Camino Brewing Co LLC",
     "brewery_type": "micro",
-    "street": "718 S 1st St",
     "city": "San Jose",
     "state": "California",
-    "postal_code": "95113",
     "country": "United States",
-    "longitude": "-121.8823478",
-    "latitude": "37.32530178",
-    "website_url": "http://www.caminobrewing.com",
-    "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z",
     "image":"https://www.sanjose.org/sites/default/files/2018-06/0_0.jpg"
 }, {
     "id": "cape-ann-lanes-gloucester",
@@ -110,11 +72,7 @@
     "brewery_type": "planning",
     "city": "Gloucester",
     "state": "Massachusetts",
-    "postal_code": "01930-2256",
     "country": "United States",
-    "phone": "9788799714",
-    "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z",
     "image": "https://static.wixstatic.com/media/f96d7c_cf62f72c0cc943b4ba369b762c2d5c87~mv2_d_3376_3447_s_4_2.jpg"
 }, {
     "id": "center-pivot-quinter",
@@ -122,11 +80,7 @@
     "brewery_type": "planning",
     "city": "Quinter",
     "state": "Kansas",
-    "postal_code": "67752",
     "country": "United States",
-    "phone": "7857548344",
-    "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z",
     "image":"https://untappd.akamaized.net/site/beer_logos_hd/beer-3693672_0a500_hd.jpeg"
 }, {
     "id": "cerveceria-del-pueblo-pasadena",
@@ -134,26 +88,15 @@
     "brewery_type": "planning",
     "city": "Pasadena",
     "state": "California",
-    "postal_code": "91105-1822",
     "country": "United States",
-    "longitude": "-118.1444779",
-    "latitude": "34.1476452",
-    "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z",
     "image": "https://media-cdn.tripadvisor.com/media/photo-s/1d/1b/06/4a/mas-de-nuestra-terraza.jpg"
 }, {
     "id": "circle-9-brewing-san-diego",
     "name": "Circle 9 Brewing",
     "brewery_type": "micro",
-    "street": "7292 Opportunity Rd Ste C",
     "city": "San Diego",
     "state": "California",
-    "postal_code": "92111-2223",
     "country": "United States",
-    "phone": "8586342537",
-    "website_url": "http://www.circle9brewing.com",
-    "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z",
     "image":"https://media.sandiegoreader.com/img/photos/2017/08/21/circle9_beers_t720.jpg?5755a55b677da5dfc6c8e05d88cfbaffe8abac5c"
 }, {
     "id": "cerveza-guajira-miami",
@@ -161,11 +104,7 @@
     "brewery_type": "planning",
     "city": "Miami",
     "state": "Florida",
-    "postal_code": "33137",
     "country": "United States",
-    "phone": "3056005692",
-    "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z",
     "image":"https://media-cdn.tripadvisor.com/media/photo-s/11/c4/18/38/guajira.jpg"
 }, {
     "id": "common-john-brewing-co-manchester",
@@ -173,39 +112,23 @@
     "brewery_type": "planning",
     "city": "Manchester",
     "state": "Tennessee",
-    "postal_code": "37355-6064",
     "country": "United States",
-    "phone": "9314090630",
-    "website_url": "http://www.commonjohnbc.com",
-    "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z",
     "image":"https://www.commonjohnbc.com/wp-content/uploads/sb-instagram-feed-images/277660530_365309708813855_8274407884179826317_nfull.jpg"
 }, {
     "id": "corner-pub-reedsburg",
     "name": "Corner Pub",
     "brewery_type": "brewpub",
-    "street": "100 E Main St Lowr",
     "city": "Reedsburg",
     "state": "Wisconsin",
-    "postal_code": "53959-1967",
     "country": "United States",
-    "phone": "6085248989",
-    "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z",
     "image":"https://cdn.usarestaurants.info/assets/uploads/861a44a42dde19db091fb73b320b39d9_-united-states-wisconsin-sauk-county-reedsburg-corner-pub-608-524-8989htm.jpg"
 }, {
     "id": "cyclers-brewing-montgomery",
     "name": "Cycler's Brewing",
     "brewery_type": "micro",
-    "street": "17105 Osborn Rd",
     "city": "Montgomery",
     "state": "Texas",
-    "postal_code": "77356",
     "country": "United States",
-    "phone": "7135692485",
-    "website_url": "http://www.cyclersbrewing.com",
-    "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z",
     "image":"https://lh4.ggpht.com/ydLXvQdVkvT77ghXF-oi3wmBNDtGSZJUiSjgRSRsJ1igHgr-PoSpWH8nn628mFz7xn_u25jlrJSeJGLX2RrG7GxqAwIOXUU=s750"
 }, {
     "id": "dented-face-brewing-company-delta",
@@ -213,22 +136,15 @@
     "brewery_type": "planning",
     "city": "Delta",
     "state": "Colorado",
-    "postal_code": "81416",
     "country": "United States",
-    "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z",
     "image":"https://images.squarespace-cdn.com/content/v1/555cd8b8e4b0c647a26e43c9/1563315979507-8IRN82VZ7G2GXW3PNB0P/dented-+logo.png"
 }, {
     "id": "dfamle-enterprises-lp-dba-four-sons-brewing-huntington-beach",
     "name": "Dfamle Enterprises LP (DBA Four Sons Brewing)",
     "brewery_type": "micro",
-    "street": "18421 Gothard St Ste 100",
     "city": "Huntington Beach",
     "state": "California",
-    "postal_code": "92648-1235",
     "country": "United States",
-    "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z",
     "image": "https://static.wixstatic.com/media/a8a5aa_5cd5155eb91b4006ba9753286edc3997~mv2.png"
 }, {
     "id": "devout-brewing-export",
@@ -236,11 +152,7 @@
     "brewery_type": "planning",
     "city": "Export",
     "state": "Pennsylvania",
-    "postal_code": "15632",
     "country": "United States",
-    "website_url": "http://www.devoutbrewingco.com",
-    "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z",
     "image":"https://assets.simpleviewinc.com/simpleview/image/fetch/c_limit,q_75,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/crm/laurel/Exterior-800x53310-725a47045056a36_725a4827-5056-a36a-0a94eed199380ae7.jpg"
 }, {
     "id": "dirt-road-brewing-corvallis",
@@ -248,11 +160,7 @@
     "brewery_type": "planning",
     "city": "Corvallis",
     "state": "Oregon",
-    "postal_code": "97330-3005",
     "country": "United States",
     "phone": "5415984221",
-    "website_url": "http://dirtroadbrewing.com",
-    "updated_at": "2021-10-23T02:24:55.243Z",
-    "created_at": "2021-10-23T02:24:55.243Z",
     "image":"https://corvallis.objects.liquidweb.services/photos/1961-dirtroadbrewing3-1200x800.jpg"
 }]}

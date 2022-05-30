@@ -1,4 +1,4 @@
-const brewLog = document.getElementById('brewery-lrg')
+const brewLog = document.getElementById('brewery-list')
 document.addEventListener('DOMContentLoaded', () => {
     return fetch('http://localhost:3000/breweries')
     .then(res => res.json())
