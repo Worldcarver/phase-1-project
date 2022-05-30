@@ -19,6 +19,8 @@ function createBrewery(breweries){
         brewPic.addEventListener('click', () => {
             document.querySelector('#brewery-lrg img').src = brewery.image
             document.querySelector('.brewery-name').textContent = brewery.name
+            document.querySelector('#city').textContent = brewery.city
+            document.querySelector('#state').textContent = brewery.state
 
         })
         brewLog.append(brewPic)
