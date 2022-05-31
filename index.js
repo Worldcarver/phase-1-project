@@ -27,3 +27,23 @@ function createBrewery(breweries){
 
     })
 }
+
+
+//submit form+auto prevent auto refresh
+
+document.getElementById(`new-brewery`).addEventListener(`submit`,function(event){
+    event.preventDefault()    //prevents the form from autosubmitting
+
+const newBrewery = document.createElement('img')
+newBrewery.src = e.target. image. value
+newBrewlog.append(newBrewery)
+    newBrewery.addEventListener(`click`, () =>{
+        document.querySelector(`.brewery-lrg img`).src = event.target.image.value
+        document.querySelector(`brewey-name`).textContent = event.name.value
+        document.querySelector(`#city`).textContent = event.target[`new-comment`].value
+        document.querySelector(`#state`).textContent = event.target[`new-state`].value
+
+
+
+    })
+})
