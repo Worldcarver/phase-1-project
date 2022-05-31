@@ -11,7 +11,6 @@ function createBrewery(breweries){
         //image
         const brewPic = document.createElement('img')
         brewPic.setAttribute('src', brewery.image)
-        console.log(brewPic)
        
 
         //click event to select a brewery
@@ -35,12 +34,12 @@ document.getElementById(`new-brewery`).addEventListener(`submit`,function(event)
     event.preventDefault()    //prevents the form from autosubmitting
 
 const newBrewery = document.createElement('img')
-newBrewery.src = e.target. image. value
-newBrewlog.append(newBrewery)
+newBrewery.src = event.target.image.value
+brewLog.append(newBrewery)
     newBrewery.addEventListener(`click`, () =>{
-        document.querySelector(`.brewery-lrg img`).src = event.target.image.value
-        document.querySelector(`brewey-name`).textContent = event.name.value
-        document.querySelector(`#city`).textContent = event.target[`new-comment`].value
+        document.querySelector(`.lrg-image`).src = event.target.image.value
+        document.querySelector(`.brewery-name`).textContent = event.target.name.value
+        document.querySelector(`#city`).textContent = event.target[`new-city`].value
         document.querySelector(`#state`).textContent = event.target[`new-state`].value
 
 
