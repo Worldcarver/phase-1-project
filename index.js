@@ -1,4 +1,9 @@
+
+//Global Var. 
 const brewLog = document.getElementById('brewery-list')
+
+
+
 document.addEventListener('DOMContentLoaded', () => {
     return fetch('http://localhost:3000/breweries')
     .then(res => res.json())
@@ -11,11 +16,10 @@ function createBrewery(breweries){
         //image
         const brewPic = document.createElement('img')
         brewPic.setAttribute('src', brewery.image)
-        console.log(brewPic)
-       
+        // console.log(brewPic)
+        brewLog.append(brewPic)
 
-        //click event to select a brewery
-
+        //click event listener
         brewPic.addEventListener('click', () => {
             document.querySelector('#brewery-lrg img').src = brewery.image
             document.querySelector('.brewery-name').textContent = brewery.name
@@ -23,7 +27,21 @@ function createBrewery(breweries){
             document.querySelector('#state').textContent = brewery.state
 
         })
-        brewLog.append(brewPic)
 
     })
 }
+
+
+//submit form+auto prevent auto refresh
+
+const newBrew = document.getElementById(`new-brewery`);
+
+newBrew.addEventListener(`submit`,(event)=>{
+    event.preventDefault()    //prevents the form from autosubmitting
+
+    const newBrewery = document.createElement('img')
+    newBrewery.src = event.target.image.value
+    newBrewlog.append(newBrewery)
+    newBrewery.addEventListener(``)
+
+})
