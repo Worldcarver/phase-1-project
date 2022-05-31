@@ -1,6 +1,6 @@
 body {
     background-color:#DF8D03;
-    font-family: 'Amatic SC', cursive;
+    font-family: 'Amatic SC';
     font-size: x-large;
 }
 
@@ -9,6 +9,8 @@ img {
     border-radius: 4px;
     padding: 5px;
     width: 200px;
+    line-height: 5px;
+    align-items: center;
   }
   
 img:hover {
@@ -24,8 +26,76 @@ img:hover {
     text-align: center;
   }
 
+  h3.brewery-name {
+    color: rgb(153, 51, 0);
+    font-size: xx-large;
+  }
+
+
+
 h3 {
   color:#fff70e
+}
+
+#location {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
   
+}
+
+p {
+  text-align:center;
+  margin-left: auto;
+  margin-right: auto;
+  font-size:x-large;
+}
+
+#breweries {
+  color: rgb(153, 51, 0);
+  font-size: xx-large;
+}
+
+
+#new-brewery{
+  font-size: 30px;
+}
+
+
+
+input[type=submit] {
+  position: relative;
+  background-color: #C96E12;
+  color: #FFF897;
+  font-size: 20px;
+  font-family: 'Amatic SC';
+  letter-spacing: 8px;
+  z-index: 1;
+}
+
+input[type=submit]:hover{
+  color: #C96E12;
+  background-color: #FFF897;
+}
+
+
+#new-brew {
+  font-family: 'Amatic SC';
+  font-size: 25px;
+}
+
+#new-image{
+  font-family: 'Amatic SC';
+  font-size: 25px;
+}
+
+#new-city{
+  font-family: 'Amatic SC';
+  font-size: 25px;
+}
+
+#new-state{
+  font-family: 'Amatic SC';
+  font-size: 25px;
 }
 
