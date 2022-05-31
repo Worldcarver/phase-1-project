@@ -1,6 +1,7 @@
 body {
     background-color:#DF8D03;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Amatic SC', cursive;
+    font-size: x-large;
 }
 
 img {
@@ -22,3 +23,8 @@ img:hover {
     width: 50%;
     text-align: center;
   }
+
+h3 {
+  color:#fff70e
+  
+}
