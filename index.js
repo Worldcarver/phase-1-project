@@ -16,6 +16,7 @@ function createBrewery(breweries){
         //image
         const brewPic = document.createElement('img')
         brewPic.setAttribute('src', brewery.image)
+        brewPic.setAttribute('class', "breweryList")
        
 
         //click event to select a brewery
@@ -28,9 +29,25 @@ function createBrewery(breweries){
             document.querySelector('#state').textContent = brewery.state
 
         })
+        
+
+        //mouseOver event listener
+
+        brewPic.addEventListener('mouseover', ()=>{
+            brewPic.style.width = "250px"
+        })
+
+        brewPic.addEventListener('mouseout', ()=>{
+            brewPic.style.width = "200px"
+        })
+
         brewLog.append(brewPic)
 
     })
+
+
+    
+    
 }
 
 
@@ -95,3 +112,5 @@ document.getElementById(`new-brewery`).addEventListener(`submit`,function(event)
 
 
 })
+
+
