@@ -1,166 +1,193 @@
 {
-     "breweries":[
+  "breweries": [
     {
-    "id": "banjo-brewing-fayetteville",
-    "name": "Banjo Brewing",
-    "brewery_type": "planning",
-    "city": "Fayetteville",
-    "state": "West Virginia",
-    "country": "United States",
-    "image" : "https://brilliantstream.com/wp-content/uploads/2018/03/00F16EA2-09E2-4BA8-B42A-15008BF03F26.jpeg"
-}, {
-    "id": "barrel-brothers-brewing-company-windsor",
-    "name": "Barrel Brothers Brewing Company",
-    "brewery_type": "micro",
-    "city": "Windsor",
-    "state": "California",
-    "country": "United States",
-    "image": "https://www.sonomacounty.com/sites/default/files/styles/profile_photo_full/public/listing_images/profile/6178/breweries_Barrel_Brothers_Brewing_Windsor_Sonoma_County_0080-fc469dcb5056a36_fc469ffd-5056-a36a-07deeadeeda80def.jpg?itok=SQjNns9B"
-}, {
-    "id": "bay-brewing-company-miami",
-    "name": "Bay Brewing Company",
-    "brewery_type": "planning",
-    "city": "Miami",
-    "state": "Florida",
-    "postal_code": "33130-3488",
-    "country": "United States",
-    "phone": "18134763767",
-    "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/56/9c/79/tap-room.jpg"
-}, {
-    "id": "bent-shovel-brewing-oregon-city",
-    "name": "Bent Shovel Brewing",
-    "brewery_type": "micro",
-    "city": "Oregon City",
-    "state": "Oregon",
-    "country": "United States",
-    "image": "https://images.squarespace-cdn.com/content/61b4e26174123c578303ebec/61cb5418-19fb-4ffe-84a1-1282d7ab9896/Big+full+color+Bent+Shovel+logo+Estacada.jpg?format=1500w&content-type=image%2Fjpeg"
-}, {
-    "id": "snow-belt-brew-chardon",
-    "name": "Snow Belt Brew",
-    "brewery_type": "micro",
-    "city": "Chardon",
-    "state": "Ohio",
-    "country": "United States",
-    "image": "https://www.visitcharlevoix.com/imgs/google_img_274_1.jpg"
-}, {
-    "id": "boring-brewing-co-llc-boring",
-    "name": "Boring Brewing Co., LLC",
-    "brewery_type": "micro",
-    "city": "Boring",
-    "state": "Oregon",
-    "country": "United States",
-    "image": "https://d2pxm94gkd1wuq.cloudfront.net/BreweryLogos/Standard/6333.boring-brewing-co.jpg"
-}, {
-    "id": "brubakers-brewery-and-pub-sylvania",
-    "name": "Brubaker's Brewery \u0026 Pub",
-    "brewery_type": "planning",
-    "city": "Sylvania",
-    "state": "Ohio",
-    "country": "United States",
-    "image": "https://d2pxm94gkd1wuq.cloudfront.net/BreweryLogos/Standard/678722660.brubakersbreweryamppub.jpg"
-}, {
-    "id": "camino-brewing-co-llc-san-jose",
-    "name": "Camino Brewing Co LLC",
-    "brewery_type": "micro",
-    "city": "San Jose",
-    "state": "California",
-    "country": "United States",
-    "image":"https://www.sanjose.org/sites/default/files/2018-06/0_0.jpg"
-}, {
-    "id": "cape-ann-lanes-gloucester",
-    "name": "Cape Ann Lanes",
-    "brewery_type": "planning",
-    "city": "Gloucester",
-    "state": "Massachusetts",
-    "country": "United States",
-    "image": "https://static.wixstatic.com/media/f96d7c_cf62f72c0cc943b4ba369b762c2d5c87~mv2_d_3376_3447_s_4_2.jpg"
-}, {
-    "id": "center-pivot-quinter",
-    "name": "Center Pivot",
-    "brewery_type": "planning",
-    "city": "Quinter",
-    "state": "Kansas",
-    "country": "United States",
-    "image":"https://untappd.akamaized.net/site/beer_logos_hd/beer-3693672_0a500_hd.jpeg"
-}, {
-    "id": "cerveceria-del-pueblo-pasadena",
-    "name": "Cerveceria Del Pueblo",
-    "brewery_type": "planning",
-    "city": "Pasadena",
-    "state": "California",
-    "country": "United States",
-    "image": "https://media-cdn.tripadvisor.com/media/photo-s/1d/1b/06/4a/mas-de-nuestra-terraza.jpg"
-}, {
-    "id": "circle-9-brewing-san-diego",
-    "name": "Circle 9 Brewing",
-    "brewery_type": "micro",
-    "city": "San Diego",
-    "state": "California",
-    "country": "United States",
-    "image":"https://media.sandiegoreader.com/img/photos/2017/08/21/circle9_beers_t720.jpg?5755a55b677da5dfc6c8e05d88cfbaffe8abac5c"
-}, {
-    "id": "cerveza-guajira-miami",
-    "name": "Cerveza Guajira",
-    "brewery_type": "planning",
-    "city": "Miami",
-    "state": "Florida",
-    "country": "United States",
-    "image":"https://media-cdn.tripadvisor.com/media/photo-s/11/c4/18/38/guajira.jpg"
-}, {
-    "id": "common-john-brewing-co-manchester",
-    "name": "Common John Brewing Co",
-    "brewery_type": "planning",
-    "city": "Manchester",
-    "state": "Tennessee",
-    "country": "United States",
-    "image":"https://www.commonjohnbc.com/wp-content/uploads/sb-instagram-feed-images/277660530_365309708813855_8274407884179826317_nfull.jpg"
-}, {
-    "id": "corner-pub-reedsburg",
-    "name": "Corner Pub",
-    "brewery_type": "brewpub",
-    "city": "Reedsburg",
-    "state": "Wisconsin",
-    "country": "United States",
-    "image":"https://cdn.usarestaurants.info/assets/uploads/861a44a42dde19db091fb73b320b39d9_-united-states-wisconsin-sauk-county-reedsburg-corner-pub-608-524-8989htm.jpg"
-}, {
-    "id": "cyclers-brewing-montgomery",
-    "name": "Cycler's Brewing",
-    "brewery_type": "micro",
-    "city": "Montgomery",
-    "state": "Texas",
-    "country": "United States",
-    "image":"https://lh4.ggpht.com/ydLXvQdVkvT77ghXF-oi3wmBNDtGSZJUiSjgRSRsJ1igHgr-PoSpWH8nn628mFz7xn_u25jlrJSeJGLX2RrG7GxqAwIOXUU=s750"
-}, {
-    "id": "dented-face-brewing-company-delta",
-    "name": "Dented Face Brewing Company",
-    "brewery_type": "planning",
-    "city": "Delta",
-    "state": "Colorado",
-    "country": "United States",
-    "image":"https://images.squarespace-cdn.com/content/v1/555cd8b8e4b0c647a26e43c9/1563315979507-8IRN82VZ7G2GXW3PNB0P/dented-+logo.png"
-}, {
-    "id": "dfamle-enterprises-lp-dba-four-sons-brewing-huntington-beach",
-    "name": "Dfamle Enterprises LP (DBA Four Sons Brewing)",
-    "brewery_type": "micro",
-    "city": "Huntington Beach",
-    "state": "California",
-    "country": "United States",
-    "image": "https://static.wixstatic.com/media/a8a5aa_5cd5155eb91b4006ba9753286edc3997~mv2.png"
-}, {
-    "id": "devout-brewing-export",
-    "name": "Devout Brewing",
-    "brewery_type": "planning",
-    "city": "Export",
-    "state": "Pennsylvania",
-    "country": "United States",
-    "image":"https://assets.simpleviewinc.com/simpleview/image/fetch/c_limit,q_75,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/crm/laurel/Exterior-800x53310-725a47045056a36_725a4827-5056-a36a-0a94eed199380ae7.jpg"
-}, {
-    "id": "dirt-road-brewing-corvallis",
-    "name": "Dirt Road Brewing",
-    "brewery_type": "planning",
-    "city": "Corvallis",
-    "state": "Oregon",
-    "country": "United States",
-    "phone": "5415984221",
-    "image":"https://corvallis.objects.liquidweb.services/photos/1961-dirtroadbrewing3-1200x800.jpg"
-}]}
+      "id": "banjo-brewing-fayetteville",
+      "name": "Banjo Brewing",
+      "brewery_type": "planning",
+      "city": "Fayetteville",
+      "state": "West Virginia",
+      "country": "United States",
+      "image": "https://brilliantstream.com/wp-content/uploads/2018/03/00F16EA2-09E2-4BA8-B42A-15008BF03F26.jpeg"
+    },
+    {
+      "id": "barrel-brothers-brewing-company-windsor",
+      "name": "Barrel Brothers Brewing Company",
+      "brewery_type": "micro",
+      "city": "Windsor",
+      "state": "California",
+      "country": "United States",
+      "image": "https://www.sonomacounty.com/sites/default/files/styles/profile_photo_full/public/listing_images/profile/6178/breweries_Barrel_Brothers_Brewing_Windsor_Sonoma_County_0080-fc469dcb5056a36_fc469ffd-5056-a36a-07deeadeeda80def.jpg?itok=SQjNns9B"
+    },
+    {
+      "id": "bay-brewing-company-miami",
+      "name": "Bay Brewing Company",
+      "brewery_type": "planning",
+      "city": "Miami",
+      "state": "Florida",
+      "postal_code": "33130-3488",
+      "country": "United States",
+      "phone": "18134763767",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/56/9c/79/tap-room.jpg"
+    },
+    {
+      "id": "bent-shovel-brewing-oregon-city",
+      "name": "Bent Shovel Brewing",
+      "brewery_type": "micro",
+      "city": "Oregon City",
+      "state": "Oregon",
+      "country": "United States",
+      "image": "https://images.squarespace-cdn.com/content/61b4e26174123c578303ebec/61cb5418-19fb-4ffe-84a1-1282d7ab9896/Big+full+color+Bent+Shovel+logo+Estacada.jpg?format=1500w&content-type=image%2Fjpeg"
+    },
+    {
+      "id": "snow-belt-brew-chardon",
+      "name": "Snow Belt Brew",
+      "brewery_type": "micro",
+      "city": "Chardon",
+      "state": "Ohio",
+      "country": "United States",
+      "image": "https://www.visitcharlevoix.com/imgs/google_img_274_1.jpg"
+    },
+    {
+      "id": "boring-brewing-co-llc-boring",
+      "name": "Boring Brewing Co., LLC",
+      "brewery_type": "micro",
+      "city": "Boring",
+      "state": "Oregon",
+      "country": "United States",
+      "image": "https://d2pxm94gkd1wuq.cloudfront.net/BreweryLogos/Standard/6333.boring-brewing-co.jpg"
+    },
+    {
+      "id": "brubakers-brewery-and-pub-sylvania",
+      "name": "Brubaker's Brewery & Pub",
+      "brewery_type": "planning",
+      "city": "Sylvania",
+      "state": "Ohio",
+      "country": "United States",
+      "image": "https://d2pxm94gkd1wuq.cloudfront.net/BreweryLogos/Standard/678722660.brubakersbreweryamppub.jpg"
+    },
+    {
+      "id": "camino-brewing-co-llc-san-jose",
+      "name": "Camino Brewing Co LLC",
+      "brewery_type": "micro",
+      "city": "San Jose",
+      "state": "California",
+      "country": "United States",
+      "image": "https://www.sanjose.org/sites/default/files/2018-06/0_0.jpg"
+    },
+    {
+      "id": "cape-ann-lanes-gloucester",
+      "name": "Cape Ann Lanes",
+      "brewery_type": "planning",
+      "city": "Gloucester",
+      "state": "Massachusetts",
+      "country": "United States",
+      "image": "https://static.wixstatic.com/media/f96d7c_cf62f72c0cc943b4ba369b762c2d5c87~mv2_d_3376_3447_s_4_2.jpg"
+    },
+    {
+      "id": "center-pivot-quinter",
+      "name": "Center Pivot",
+      "brewery_type": "planning",
+      "city": "Quinter",
+      "state": "Kansas",
+      "country": "United States",
+      "image": "https://untappd.akamaized.net/site/beer_logos_hd/beer-3693672_0a500_hd.jpeg"
+    },
+    {
+      "id": "cerveceria-del-pueblo-pasadena",
+      "name": "Cerveceria Del Pueblo",
+      "brewery_type": "planning",
+      "city": "Pasadena",
+      "state": "California",
+      "country": "United States",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/1d/1b/06/4a/mas-de-nuestra-terraza.jpg"
+    },
+    {
+      "id": "circle-9-brewing-san-diego",
+      "name": "Circle 9 Brewing",
+      "brewery_type": "micro",
+      "city": "San Diego",
+      "state": "California",
+      "country": "United States",
+      "image": "https://media.sandiegoreader.com/img/photos/2017/08/21/circle9_beers_t720.jpg?5755a55b677da5dfc6c8e05d88cfbaffe8abac5c"
+    },
+    {
+      "id": "cerveza-guajira-miami",
+      "name": "Cerveza Guajira",
+      "brewery_type": "planning",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/11/c4/18/38/guajira.jpg"
+    },
+    {
+      "id": "common-john-brewing-co-manchester",
+      "name": "Common John Brewing Co",
+      "brewery_type": "planning",
+      "city": "Manchester",
+      "state": "Tennessee",
+      "country": "United States",
+      "image": "https://www.commonjohnbc.com/wp-content/uploads/sb-instagram-feed-images/277660530_365309708813855_8274407884179826317_nfull.jpg"
+    },
+    {
+      "id": "corner-pub-reedsburg",
+      "name": "Corner Pub",
+      "brewery_type": "brewpub",
+      "city": "Reedsburg",
+      "state": "Wisconsin",
+      "country": "United States",
+      "image": "https://cdn.usarestaurants.info/assets/uploads/861a44a42dde19db091fb73b320b39d9_-united-states-wisconsin-sauk-county-reedsburg-corner-pub-608-524-8989htm.jpg"
+    },
+    {
+      "id": "cyclers-brewing-montgomery",
+      "name": "Cycler's Brewing",
+      "brewery_type": "micro",
+      "city": "Montgomery",
+      "state": "Texas",
+      "country": "United States",
+      "image": "https://lh4.ggpht.com/ydLXvQdVkvT77ghXF-oi3wmBNDtGSZJUiSjgRSRsJ1igHgr-PoSpWH8nn628mFz7xn_u25jlrJSeJGLX2RrG7GxqAwIOXUU=s750"
+    },
+    {
+      "id": "dented-face-brewing-company-delta",
+      "name": "Dented Face Brewing Company",
+      "brewery_type": "planning",
+      "city": "Delta",
+      "state": "Colorado",
+      "country": "United States",
+      "image": "https://images.squarespace-cdn.com/content/v1/555cd8b8e4b0c647a26e43c9/1563315979507-8IRN82VZ7G2GXW3PNB0P/dented-+logo.png"
+    },
+    {
+      "id": "dfamle-enterprises-lp-dba-four-sons-brewing-huntington-beach",
+      "name": "Dfamle Enterprises LP (DBA Four Sons Brewing)",
+      "brewery_type": "micro",
+      "city": "Huntington Beach",
+      "state": "California",
+      "country": "United States",
+      "image": "https://static.wixstatic.com/media/a8a5aa_5cd5155eb91b4006ba9753286edc3997~mv2.png"
+    },
+    {
+      "id": "devout-brewing-export",
+      "name": "Devout Brewing",
+      "brewery_type": "planning",
+      "city": "Export",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "image": "https://assets.simpleviewinc.com/simpleview/image/fetch/c_limit,q_75,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/crm/laurel/Exterior-800x53310-725a47045056a36_725a4827-5056-a36a-0a94eed199380ae7.jpg"
+    },
+    {
+      "id": "dirt-road-brewing-corvallis",
+      "name": "Dirt Road Brewing",
+      "brewery_type": "planning",
+      "city": "Corvallis",
+      "state": "Oregon",
+      "country": "United States",
+      "phone": "5415984221",
+      "image": "https://corvallis.objects.liquidweb.services/photos/1961-dirtroadbrewing3-1200x800.jpg"
+    },
+    {
+      "image": "asdfasd",
+      "city": "asdfasdf",
+      "state": "asdfasdfs",
+      "id": "X3WJyfW"
+    }
+  ]
+}
